@@ -12,6 +12,7 @@ I built 2 start-ups and took part in another 3 in different roles.
 ## Tech stack:
 - 🔆 Symfony
 - 🔆 MySQL & NoSQL (Redis / MongoDB)
+- 🔆 Typescript
 - 🔆 RabbitMQ
 - 🔆 Elastic Search
 - 🔆 Docker & Git
