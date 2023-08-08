@@ -1,5 +1,5 @@
 ## hey there 👋
-i'm [Cosmin Gheorghila](https://cosmin.gheorghila.ro) and I would introduce myself in twelve words. Love to build scalable tech solutions, software engineer, blockchain and start-up enthusiast.
+i'm [Cosmin Gheorghila](https://cosmin.gheorghila.com) and I would introduce myself in twelve words. Love to build scalable tech solutions, software engineer, blockchain and start-up enthusiast.
 In 2015 I started as a FullStack developer and climbing the career ladder I became a Sr. Software Engineer and Scrum Master for biggest online store in Romania.
 I built 2 start-ups and took part in another 3 in different roles.
 
